@@ -7,7 +7,7 @@
 
 <br />
 
-<p align="center">Welcome to my page! </br> I'm Tuan Anh, Fullstack developer from <b>Vietnam</b>.</p>
+<h3 align="center">Welcome to my page! </br> I'm Tuan Anh, Fullstack developer from <b>Vietnam</b>.</h3>
 
 <br />
 
