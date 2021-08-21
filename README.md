@@ -9,6 +9,8 @@
 
 <p align="center">Welcome to my page! </br> I'm Tuan Anh, Fullstack developer from <b>Vietnam</b>.</p>
 
+<br />
+
 <!-- #### Things I code with
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
