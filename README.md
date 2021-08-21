@@ -6,7 +6,7 @@
 </h1>
 
 <br />
-<img align="right" src="img/scene.png">
+<img align="right" src="https://github.com/AnhDT0407/AnhDT0407/blob/main/img/scene.png">
 <h3 align="center">Welcome to my page! </br> I'm Tuan Anh, Fullstack developer from <b>Vietnam</b>.</h3>
 
 <br />
