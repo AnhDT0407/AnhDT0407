@@ -21,9 +21,7 @@
 </p>
 
 
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
+<h4 align="center">Programming languages</h4>
 
 <p align="center">
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly-525252.svg?logo=mega&logoColor=white"></a>
@@ -54,7 +52,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+<h4 align="center">Frameworks and libraries</h4>
 
 <p align="center">
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -81,7 +79,7 @@
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+<h4 align="center">Databases and cloud hosting</h4>
 
 <p align="center">
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -96,7 +94,7 @@
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+<h4 align="center">Software and tools</h4>
 
 <p align="center">
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -123,7 +121,7 @@
 
 <br /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhDT0407&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="AnhDT0407" />
-<img src="https://github-readme-stats.vercel.app/api?username=AnhDT0407&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide=stars" alt="AnhDT0407" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhDT0407&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="AnhDT0407" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhDT0407&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide=stars" alt="AnhDT0407" /></p>
 
 
