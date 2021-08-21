@@ -7,7 +7,7 @@
 
 <br />
 <img align="right" src="https://github.com/AnhDT0407/AnhDT0407/blob/main/img/scene.png">
-<h3 align="center">Welcome to my page! </br> I'm Tuan Anh, Fullstack developer from <b>Vietnam</b>.</h3>
+<h3 align="left">Welcome to my page! </br> I'm Tuan Anh, Fullstack developer from <b>Vietnam</b>.</h3>
 
 <br />
 
@@ -25,9 +25,9 @@
 </p> -->
 
 
-<h4 align="center">Programming languages</h4>
+<h4 align="left">Programming languages</h4>
 
-<p align="center">
+<p align="left">
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -40,9 +40,9 @@
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-<h4 align="center">Frameworks and libraries</h4>
+<h4 align="left">Frameworks and libraries</h4>
 
-<p align="center">
+<p align="left">
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?logo=cachet&logoColor=white"></a>
@@ -50,18 +50,18 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
-<h4 align="center">Databases and cloud hosting</h4>
+<h4 align="left">Databases and cloud hosting</h4>
 
-<p align="center">
+<p align="left">
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 </p>
 
-<h4 align="center">Software and tools</h4>
+<h4 align="left">Software and tools</h4>
 
-<p align="center">
+<p align="left">
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -73,7 +73,7 @@
 
 <br /> 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhDT0407&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="AnhDT0407" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhDT0407&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide=stars,issues" alt="AnhDT0407" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhDT0407&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="AnhDT0407" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=AnhDT0407&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide=stars,issues" alt="AnhDT0407" /></p>
 
 
