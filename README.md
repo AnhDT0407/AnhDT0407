@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnhDT0407&show_icons=true&theme=gotham" alt="AnhDT0407" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnhDT0407&show_icons=true&theme=gotham&hide=stars" alt="AnhDT0407" />
 
 
